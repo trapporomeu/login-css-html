@@ -148,7 +148,7 @@ body {
 
     &:hover {
         text-decoration: underline;
-        color: #1e1e1e;
+        color: #c2c0c3;
         cursor: pointer;
     }
 }
